@@ -1,4 +1,4 @@
-# -Real-Estate-Prices-prediction-with-Machine-Learning-A-Global-Housing-Analysis
+# -Real-Estate-Prices-prediction-with-Machine-Learning-A-Global-real-estate-price-Analysis
 Building a Machine Learning model that can predict global real-estate prices
 ## Project Background and Objective
 House prices vary alot and real-estate investors, agents, clients, and even renters find it difficult to know if a house price is fair and also struggle to estimate house prices/rent accurately in new areas due to many factors like lack of transparency, consistency and data-driven evaluation.Imagine knowing the true value of a property before the seller even speaks.
