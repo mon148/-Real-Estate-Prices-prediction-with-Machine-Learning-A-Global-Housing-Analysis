@@ -81,9 +81,9 @@ A lot more but to mention few. Over 35% of reason for the cleaning is to ensure 
 - **property type**   
 - **furnisshing**   
   
-- #### With these features influencing the price, that show the REAL drivers/influencer of property value which indicate the business values in the real-estate price prediction.  
+#### With these features influencing the price, that show the REAL drivers/influencer of property value which indicate the business values in the real-estate price prediction.  
   
-- **WHAT ARE THE IMPACT THIS MODEL HAS ON BUSINESS?**   
+**WHAT ARE THE IMPACT THIS MODEL HAS ON BUSINESS?**   
 - **Investors can dicover undervalued properties instantly**  
 - **Cross-border investors can compare different regions fairly**  
 - **Real-estate marketplaces can automatically recommend price ranges to sellers**  
@@ -91,7 +91,7 @@ A lot more but to mention few. Over 35% of reason for the cleaning is to ensure 
 - **Mortgage companies get more accuracy property risk evaluation**  
 - **Whichever agent uses this model enable the clents to trust him/her since they use data-driven pricing**  
 - **Real estate agents can price property accurately before negotiation**  
-This model was not built to showcase my expertise, but using it to indicate the real impact it can have on business interms of:
+#### This model was not built to showcase my expertise, but using it to indicate the real impact it can have on business interms of:
 - **Business buildings or location allocation**
 - **Staff building allocation**
 - **Directorates/managements resting laudges**
